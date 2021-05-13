@@ -1,0 +1,21 @@
+body {
+  background: #0975ab;
+}
+
+nav {
+  background: #009eff;
+  color: white;
+}
+
+h1 {
+  background: white;
+}
+
+p {
+  color: white;
+}
+
+ol {
+  background: black;
+  color: white;
+}
